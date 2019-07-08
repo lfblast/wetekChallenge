@@ -9,7 +9,7 @@ final class ImportEPGService extends BaseService {
 
     public function __construct(\WetekChallenge\Repo\Repository $mySQLRepo, \WetekChallenge\Repo\Repository $mongoDbRepo) {
         $this->mySQLRepo = $mySQLRepo;
-        $this->mongoDbRepo = $mongoDbRepo;
+        $this->mongoDbRepo = $mongoDbRepo;        
     }
 
     public function importEPGDefault() {
@@ -38,10 +38,14 @@ final class ImportEPGService extends BaseService {
     }
 
     private function insertProgrammeData($idChannel, $xmlData) {
+        
+        $date = new \DateTime();
+        $date->modify('-7 day');
+        $this->mongoDbRepo->removeWhenDataStartLessThan($date);
+        
         foreach ($xmlData->programme as $value) {           
             $data = EPGDataRecover::getProgrammeData($idChannel, $value);
             $this->mongoDbRepo->insertData($data);
         }
     }
-
 }

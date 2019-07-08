@@ -11,13 +11,17 @@ class MongoDbRepo implements Repository {
     }
 
     public function insertData($data) {
-
         $collection = $this->con->wetekChallengeDB->programme;
-        $insertOneResult = $collection->insertOne($data);
+        $collection->insertOne($data);
     }
 
     public function getCon() {
         return $this->con;
     }
-
+    
+    public function removeWhenDataStartLessThan($date) {
+        $collection = $this->con->wetekChallengeDB->programme;
+        $condition = ['start' => ['$lt' => new \MongoDB\BSON\UTCDateTime($date)]];
+        $collection->deleteMany($condition);
+    }
 }
