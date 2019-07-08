@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="http://api.tvprofil.net/" source-info-name="TvProfil API v1.7 - XMLTV" source-info-url="https://tvprofil.com">
+<channel id="obn.ba">
+<display-name>OBN</display-name>
+<url>http://www.obn.ba</url>
+<icon src="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/OBN-logo.png" />
+</channel>
+<programme channel="obn.ba" start="20190707000500 +0200" stop="20190707005000 +0200">
+<title lang="hr">Dejana talk show, talk show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707005000 +0200" stop="20190707012000 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707012000 +0200" stop="20190707030000 +0200">
+<title lang="hr">Sherlock i Watson 1, ep. 99.</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707030000 +0200" stop="20190707042500 +0200">
+<title lang="hr">Nebo i zemlja, dramska serija</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707042500 +0200" stop="20190707045500 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707045500 +0200" stop="20190707070500 +0200">
+<title lang="hr">Čuvari planete, dokumentarni program</title>
+<category>Dokumentarni</category>
+</programme>
+<programme channel="obn.ba" start="20190707070500 +0200" stop="20190707081000 +0200">
+<title lang="hr">Lonci i poklopci</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707081000 +0200" stop="20190707083500 +0200">
+<title lang="hr">Najljepše pustolovine Nilsa Holgersona</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190707083500 +0200" stop="20190707090000 +0200">
+<title lang="hr">Mia i ja</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190707090000 +0200" stop="20190707092500 +0200">
+<title lang="hr">Pustolovine braće Kratts</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190707092500 +0200" stop="20190707102500 +0200">
+<title lang="hr">Brutalna fizika, dokumentarni program</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707102500 +0200" stop="20190707104000 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190707104000 +0200" stop="20190707113500 +0200">
+<title lang="hr">Dejana talk show, talk show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707113500 +0200" stop="20190707115000 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190707115000 +0200" stop="20190707122500 +0200">
+<title lang="hr">Vox populi, informativni magazin</title>
+<category>show</category>
+</programme>
+<programme channel="obn.ba" start="20190707122500 +0200" stop="20190707132000 +0200">
+<title lang="hr">Nebo i zemlja, dramska serija 1, ep. 63.</title>
+<category>serija</category>
+<desc lang="hr">Kuzey odvodi pretučenu Simaj u bolnicu, a poslije pokušava ispričati i objasniti policiji što zna o ovom slučaju. No Simaj izjavi da ju je upravo Kuzey pretukao, zbog čega mlađi brat Tekinoglu postane prvi osumnjičeni. U međuvremenu, Džemre se u teškim trenucima oslanja na Bariša i provodi sve više vremena s njim, Ali i Zejnep zabrinuti su za Kuzeya kojeg policija odvodi u stanicu na ispitivanje, a Handan pronalazi Simajine kovčege u kontejneru za smeće.</desc>
+</programme>
+<programme channel="obn.ba" start="20190707132000 +0200" stop="20190707133500 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190707133500 +0200" stop="20190707153500 +0200">
+<title lang="hr">Dženet, turska serija, 65 i 66 epizoda</title>
+<category>serija</category>
+<desc lang="bs">(65) Dženet dobija omotnicu sa slagalicom na kojoj fali samo lice žene. U poruci stoji: „Još te samo jedan korak dijeli od toga da saznaš tko ti je majka. Jesi li spremna!“ Dženet to pokazuje Selimu. Kaya dolazi na brod kojim žele pobjeći Arzu i Melisa. Nakon neuspjelog pokušaja bijega, Melisu obitelj strpa u rehabilitacijski centar, unatoč protivljenju Arzu. Arzu saznaje kako je Ozlem trudna sa Mahirom i ošamari muža. Mukadeš želi reći Dženet kako joj je Melisa sestra.
+(66) Mahir i Arzu se svađaju o Ozleminoj trudnoći i sve čuje Sema. Kaya presretne kurira sa slagalicom i sazna ime pošiljatelja. Čengiz šalje čudnu poruku Selimu. Ispostavi se da ju šalje Kaya koji drži Čengiza na nišanu. Želi ga ustrijeliti i učiniti da izgleda kao samoubojstvo. Mukadeš odlazi pronaći Melisu u Rehabilitacijskom centru. Nilgun dolazi kući i ugleda krv na podu.</desc>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190707153500 +0200" stop="20190707163000 +0200">
+<title lang="hr">Brutalna kemija, dokumentarni program</title>
+<category>Dokumentarni</category>
+</programme>
+<programme channel="obn.ba" start="20190707163000 +0200" stop="20190707173000 +0200">
+<title lang="hr">Lonci i poklopci, kulinarski show</title>
+<category>show</category>
+<desc lang="bs">Ovotjedna epizoda Lonaca i Poklopaca snimana je kao i prethodnih mjesec dana u Ugostiteljskoj školi u Sarajevu čiji su nam učenici i ovaj put bili domaćini. Za vas ćemo ove nedjelje pripremati ukusna ljetna jela koja ćete sigurno kušati i uživati u njima. Na meniju današnje epizode nalazi se izuzetno ukusna juha od tikvica s mesnim okruglicama, osvježavajuća grčka salata, bijela buzara s dagnjama i zanimljivi kolač od heljde i jabuka.
+
+HELJDIN KOLAČ S JABUKAMA
+
+150 g heljdinog brašna
+½ praška za pecivo
+2 žličice cimeta
+1 jaje
+75 g dekstroze
+3 žlice meda
+2 dl mlijeka
+4 jabuke
+100g mljevenih oraha
+50g pšeničnih klica
+čokoladna glazura: 100g čokolade, 3 žlice mlijeka, 1 žlica ulja
+
+Mikserom umutite jaja, med i dekstrozu pa dodajte mlijeko i onda brašno pomiješano s praškom za pecivo i cimetom, mljevene orahe, pšenične klice i rendane jabuke pa sve sjedinite i dobro izmješajte. Izlijte tekuće tijesto u podmazan pleh i pecite u prethodno zagrijanoj pećnici na 180ºC oko 30-40 min. Kolač ohladite i premažite čokoladnom glazurom.
+
+JUHA OD TIKVICA S MESNIM OKRUGLICAMA
+
+700 g mljevenog mesa
+2 jajeta
+sol i papar, korijander
+Vegeta
+1 manji luk
+50 g riže
+2 mlada luka
+kopar
+2 l goveđeg temeljca
+2 tikvice
+
+Luk sitno isjeckamo i popržimo na malo ulja dok ne omekša pa ohladimo. Pomiješati mljeveno meso, umućena jaja i preprženi luk te začinimo korijandom, solju i paprom. Ruke nauljiti i oblikovati 30-ak okruglica, pa ih poredati u tepsiju i zapeći u pećnici 20-ak min na oko 180ºC. U goveđi temeljac staviti rižu i sitno sjeckani mladi luk, prokuhati i onda dodati tikvice sječene na kockice i mesne okruglice pa zahuhati još par minuta.
+
+GRČKA SALATA
+
+1 glavica zelene salate
+1 glavica radića
+1 konzerva tunjevine
+100 g feta sira
+1 žuta paprika
+1 krastavac
+1 rajčica
+2 mlada luka
+100 g zelenih i crnih maslina
+50 g očišćenih oraha
+maslinovo ulje
+limunov sok
+sol i papar
+
+Zelenu salatu i radić odvojiti na listove i oprati pa ostaviti da se ocijede. Sir narezati na kockice i dodati mu mladi luk sječen na kolutiće, zelene i crne masline, izdrobljene orahe te tunjevinu iz konzerve i krastavac, papriku i rajčicu sječene na kockice. Začiniti solju i paprom te limunovim sokom i maslinovim uljem.
+
+DAGNJE NA BUZARU ( BIJELA BUZARA)
+
+1 ½ kg živih dagnji 
+4-6 glavica crvenog luka
+2 glavice češnjaka
+2 dl bijelog vina
+sol i papar
+100 g sitno sjeckanog peršinovog lista
+
+Crveni luk i češnjak očistiti pa isjeći na najsitnije moguće kockice. Ostavite si jednu žlicu češnjaka da začinite buzaru na kraju. Oba luka popržiti na maslinovom ulju dok ne omekša uz povremeno skidanje s vatre i doljevanje vode. Obvezno oba luka pirjati zajedno cijelo vrijeme. Dodati žive dagnje i poklopiti te pirjati uz lagano mrdanje posude dok se dagnje ne otvore. Na kraju dodati bijelo vino i pirjajte dok višak vode koji će izaći iz dagnji ne ispari. Ako je umak rijedak zgusnite ga krušnim mrvicama. Posuti obilato sitno sjeckanim peršinovim listom i ostatkom usitnjenog češnjaka te poslužiti vruće uz bijeli kruh ili puru.
+Na isti način se pripremaju i škampi na buzaru ili kozice ili neke druge školjke.
+
+PURA/ŽGANCI
+
+1 litra vode
+1 dl mlijeka
+200 g kukuruzne krupice
+1 dl maslinovog ulja
+sol i papar
+Vegeta
+
+Litru vode začinimo solju, paprom i vegetom te dodamo mlijeko i maslinovo ulje. Pustimo da zakipi i dodamo kukuruzno brašno te mješamo dok se pura ne zgusne. Ovisno o vrsti brašna nekim treba kraće, a nekim duže vrijeme da se skuhaju pa nije preporučljivi mješati različite vrste, mada opet netko baš to voli...
+Ovisno o vrsti jela uz koje je pura prilog možete dodavati još različite začine u nju, vlasac, peršinov list, kopar, češnjak, đumbir, maslinovo ulje, goveđu kocku, sos od paradaiza, tvrde sireve, suho meso...</desc>
+</programme>
+<programme channel="obn.ba" start="20190707173000 +0200" stop="20190707183000 +0200">
+<title lang="hr">Dejana talk show, talk show</title>
+<category>show</category>
+<desc lang="bs">POLITIKA JE MOJ ŽIVOT!
+Ako govorimo o profesionalnom životu naših gostiju ove nedjelje, vjerujemo da je većina građana BiH upoznata sa njihovim stavovima, mišljenjima i svemu onome što oni zastupaju i predstavljaju. No, tko su političari privatno? Odlučili smo približiti vam neke od naših istaknutih političkih ličnosti i predstaviti ih u sasvim nekom novom svijetlu. Ne propustite nedjeljno izdanje Dejana Talk Show-a!</desc>
+</programme>
+<programme channel="obn.ba" start="20190707183000 +0200" stop="20190707190000 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+</programme>
+<programme channel="obn.ba" start="20190707190000 +0200" stop="20190707195500 +0200">
+<title lang="hr">Dženet, turska serija 1, ep. 67.</title>
+<category>serija</category>
+<desc lang="bs">(67) Čengiz nije umro. Liječnici su mu izvadili metak iz glave, ali u kritičnom je stanju. U bolnici Kaya govori Arzu kako će dovršiti započeto. Policija ispituje Ozlem i Nilgun o Čengizu. Melisa želi istražili Mukadešine riječi i pronaći dokaze da je Dženet njena sestra. Nilgun je prestravljena. Zna kako je Čengiz ubio Rizu, ali ne može nikome reći. Odlazi u posjetu Čengizu i govori mu da sve zna dok je on u besvjesnom stanju. Selim pretraži Čengizovu sobu i nađe dijelove slagalice koju je dobijala Dženet.</desc>
+</programme>
+<programme channel="obn.ba" start="20190707195500 +0200" stop="20190707205500 +0200">
+<title lang="hr">Moja draga je chef, kulinarski show</title>
+<category>show</category>
+<desc lang="bs">1. par - Nada i Mido Čejvanović / Osijek
+2. par - Erna i Mirza Nisić/ Nova Gradiška
+3. par - Aldina Lepirica i Hari Balićevac/ Split</desc>
+</programme>
+<programme channel="obn.ba" start="20190707205500 +0200" stop="20190707214500 +0200">
+<title lang="hr">Dženet, turska serija 1, ep. 68.</title>
+<category>serija</category>
+<desc lang="bs">(68) Melisa prati Arzu i ugleda kako se sastaje sa Kayom. Dženet i Selim ulaze u natikvarnicu gdje su Kaya i Arzu i Dženet želi neke odgovore. Međutim, Kaya odigra na kartu Čengiza. Sema je oduševljena što Ozlem nosi sina. Obećava Ozlem da će nositi prezime Soyer. Kaya ubijedi Arzu kako je Čengiz njen najveći neprijatelj i ona ga sada želi ukloniti s puta. Mahir i Orhan saznaju za prodanu zemlju, ali nema novčanog traga.</desc>
+</programme>
+<programme channel="obn.ba" start="20190707214500 +0200" stop="20190707232500 +0200">
+<title lang="hr">Nebo i zemlja, dramska serija</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190707232500 +0200" stop="20190708000500 +0200">
+<title lang="hr">Moja draga je chef, kulinarski show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708000500 +0200" stop="20190708005000 +0200">
+<title lang="hr">Dejana talk show, talk show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708005000 +0200" stop="20190708012000 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708012000 +0200" stop="20190708030000 +0200">
+<title lang="hr">Moja draga je chef, kulinarski show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708030000 +0200" stop="20190708042500 +0200">
+<title lang="hr">Nebo i zemlja, dramska serija</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708042500 +0200" stop="20190708045500 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708045500 +0200" stop="20190708064500 +0200">
+<title lang="hr">Čuvari planete, dokumentarni program</title>
+<category>Dokumentarni</category>
+</programme>
+<programme channel="obn.ba" start="20190708064500 +0200" stop="20190708071000 +0200">
+<title lang="hr">Najljepše pustolovine Nilsa Holgersona</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708071000 +0200" stop="20190708073500 +0200">
+<title lang="hr">Mia i ja</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708073500 +0200" stop="20190708080000 +0200">
+<title lang="hr">Pustolovine braće Kratts</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708080000 +0200" stop="20190708091000 +0200">
+<title lang="hr">Volim samo tebe, indijska serija</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708091000 +0200" stop="20190708095500 +0200">
+<title lang="hr">Kako vrijeme prolazi</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708095500 +0200" stop="20190708101000 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190708101000 +0200" stop="20190708110000 +0200">
+<title lang="hr">Shopping kraljica</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708110000 +0200" stop="20190708115000 +0200">
+<title lang="hr">Petkom o sportu, sportski magazin</title>
+<category>sport</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708115000 +0200" stop="20190708120500 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190708120500 +0200" stop="20190708130000 +0200">
+<title lang="hr">Moja draga je chef, kulinarski show</title>
+<category>show</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708130000 +0200" stop="20190708142500 +0200">
+<title lang="hr">Sestre, indijska serija, 413, 414 i 415 epizoda</title>
+<category>serija</category>
+<desc lang="hr">(413) Soumya tješi Preeto, ali Mohini želi razdvojiti taj novi tandem. Harman i Soumya žele se informirati u bolnici o testu trudnoće, jer sumnjaju u Mohini i njen majčinski instinkt. Potom ugledaju Mohini kako je prisna sa nekim muškarcem i shvaćaju da ih obmanjuje.
+(414) Harman i Somija slikaju Mohini i Pratapa, njenog ljubavnika. Mohini shvaća kako Soumya ima sporne fotografije. Ljubavnici se dogovore da ih prevare. Pratap zove Mohini na telefon i ucenjuje ju. Harak Sing poveruje Mohini i brani ju. Soumyin plan je propao. Harman se naljuti na Soumyu jer ga zanemaruje i oni se posvađaju.
+(415) Harman se ispriča Soumyi što je vikao na nju i oni se pomire. Raavi ne želi ništa jesti dok Balwinder ne plati Mohini njihov ručak. Raavi otkriva da je Balwinder lagao da je radio. Raavi je očajna i napada Balwindera. Soumya ju tješi i nudi joj hranu.</desc>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708142500 +0200" stop="20190708144000 +0200">
+<title lang="hr">Top Shop, teleprodaja</title>
+</programme>
+<programme channel="obn.ba" start="20190708144000 +0200" stop="20190708153000 +0200">
+<title lang="hr">Ranjene ptice, turska serija 1, ep. 24.</title>
+<category>serija</category>
+<desc lang="bs">Levent se vraća na čelo firme i ugovara partnerima skoru isplatu duga. Hulija je uznemirena zbog poziva svoje sestre Melis i ne želi se još i njom baviti. No, kada Melis, koja je već dugo zaljubljena u Leventa, saznaje da se on vratio, mijenja sve planove i dolazi u konak riješena da ga osvoji. Tekin daje Neriman veliku svotu novca, a ona je sretna što se obogatila preko Merjem. Asli naređuje Merjem da preuredi Leventovu sobu, nakon čega on priređuje strašnu scenu i izderava se na ukućane. Omer je preplašen, a Merjem istraumirana i ne zna što joj je činiti.</desc>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708153000 +0200" stop="20190708153500 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+</programme>
+<programme channel="obn.ba" start="20190708153500 +0200" stop="20190708163000 +0200">
+<title lang="hr">Elif, turska serija 1, ep. 1064.</title>
+<category>serija</category>
+<desc lang="bs">Nakon što im medicinska sestra prijavi kako je predala Kimetin mobitel jednom čovjeku, Kerem i ostali se pitaju tko je ta misteriozna osoba koja se predstavila kao obiteljski prijatelj. Policija nakon detaljne pretrage dolazi do saznanja da osoba imena Serće Ustun ne postoji u službenim podacima. Nemajući izbora, Melek otkriva svoje pravo ime i razlog skrivanja identiteta. Kerem je pak siguran kako je Melek promijenila ime samo da bi lakše ostvarila svoje planove.</desc>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708163000 +0200" stop="20190708173000 +0200">
+<title lang="hr">Shopping kraljica</title>
+<category>serija</category>
+</programme>
+<programme channel="obn.ba" start="20190708173000 +0200" stop="20190708183000 +0200">
+<title lang="hr">Stol za 4, kulinarski show</title>
+<category>show</category>
+</programme>
+<programme channel="obn.ba" start="20190708183000 +0200" stop="20190708190000 +0200">
+<title lang="hr">OBN Info</title>
+<category>informativni</category>
+</programme>
+<programme channel="obn.ba" start="20190708190000 +0200" stop="20190708200000 +0200">
+<title lang="hr">Iffet 1, ep. 26.</title>
+<category>serija</category>
+<desc lang="bs">Ihsan tvrdi da je u noći ubojstva sa njim bio vozač, zbog čega se policija daje u potragu za njim. Taj vozač je Džemil. Nitko ni ne sluti da upravo on drži zatočenu Iffet u vikendici. Hoće li Ihsan uspjeti dokazati svoju nevinost i izaći iz zatvora?</desc>
+</programme>
+<programme channel="obn.ba" start="20190708200000 +0200" stop="20190708205000 +0200">
+<title lang="hr">Elif, turska serija 1, ep. 1065.</title>
+<category>serija</category>
+<desc lang="bs">Smatrajući da Asli zbog posla i obveza ne može brinuti o njenoj ćerki, Melek odlučuje predati Elif u vilu. Levent konačno uspijeva objasniti Humejri što se odigralo između Rane i njega, te da je snimak koji je vidjela montiran. Strahujući za majku pred njenu operaciju, Kerem krišom ulazi u njenu sobu. Madžide i Humejra saznaju da je misteriozna osoba opet u bolnici. Leman odlučuje staviti Žulide na kušnju u čišćenju kuće.</desc>
+</programme>
+<programme channel="obn.ba" start="20190708205000 +0200" stop="20190708214500 +0200">
+<title lang="hr">Ranjene ptice, turska serija 1, ep. 25.</title>
+<category>serija</category>
+<desc lang="bs">Ulvije obećava Leventu kako će dovesti njegovu sobu u staro stanje, no on ju razočarava informacijom da ipak neće ostati u konaku, te da se vraća svom usamljenom životu. Dogan saznaje gdje Merjem radi, te o tome obavještava Tekina koji odlučuje posjetiti taj famozni konak koji je omogućio Merjem da redovno donosi novac za mjenice. U konaku postaje sve napetije između Asli i Merjem. Tekin je mnogo uzrujan vidjevši da Merjem provodi mnogo vremena s Leventom.</desc>
+</programme>
+<programme channel="obn.ba" start="20190708214500 +0200" stop="20190708223500 +0200">
+<title lang="hr">Sestre, indijska serija, 406 i 407 epizoda</title>
+<category>serija</category>
+<desc lang="bs">(406) Harman ne prihvata povezanost između Preeto i Soumye, a Soumya je sretna jer ju je Preeto konačno prihvatila. Harak Singh zove Varuna i govori mu da razglasi po selu da Harman i Preeto žive kod kinnarsa. Harak Singh dolazi u kuću kinnarsa i govori Preeto da pođe sa njim ili će ubiti Soumyu.
+(407) Soumya sprječava Haraka da odvede Preeto. Susjedi se okupe i počinju s pitanjima. Preeto im govori da ostave njenu obitelj na miru. Harman je ljut jer je Soumya spriječila Preeto u odlasku, ali Soumya ne želi da ona pati tamo gdje ju ne žele. Mallika traži da Preeto zaradi novac ako želi živjeti sa njima.</desc>
+</programme>
+<programme channel="obn.ba" start="20190708223500 +0200" stop="20190708231000 +0200">
+<title lang="hr">Vox populi, informativni magazin</title>
+<category>show</category>
+</programme>
+<programme channel="obn.ba" start="20190708231000 +0200" stop="20190708235500 +0200">
+<title lang="hr">Shopping kraljica</title>
+<category>serija</category>
+<previously-shown />
+</programme>
+<programme channel="obn.ba" start="20190708235500 +0200" stop="20190709004000 +0200">
+<title lang="hr">Iffet 1, ep. 26.</title>
+<category>serija</category>
+<desc lang="bs">Ihsan tvrdi da je u noći ubojstva sa njim bio vozač, zbog čega se policija daje u potragu za njim. Taj vozač je Džemil. Nitko ni ne sluti da upravo on drži zatočenu Iffet u vikendici. Hoće li Ihsan uspjeti dokazati svoju nevinost i izaći iz zatvora?</desc>
+<previously-shown />
+</programme>
+</tv>
