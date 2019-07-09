@@ -11,10 +11,14 @@ class MysqlRepo implements Repository {
     }
 
     public function insertData($data) {
-//        var_dump($xmlData->channel->url);
-        $this->con->prepare('INSERT INTO channel (channelId, display_name, icon_src, url) VALUES (?, ?, ?, ?)')->execute($data);
-        $lastId = $this->con->lastInsertId();
-        return $lastId;
+        try {
+            $this->con->prepare('INSERT INTO channel (channelId, display_name, icon_src, url) VALUES (?, ?, ?, ?)')->execute($data);
+            $lastId = $this->con->lastInsertId();
+            return $lastId;
+        }
+        catch (\Exception $e) {
+            throw new \Exception('Error inserting data in MYSQL DB: ' . $e->getMessage(), (int) $e->getCode());
+        }
     }
 
     public function getCon() {

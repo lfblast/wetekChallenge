@@ -9,18 +9,17 @@ final class ImportEPGService extends BaseService {
 
     public function __construct(\WetekChallenge\Repo\Repository $mySQLRepo, \WetekChallenge\Repo\Repository $mongoDbRepo) {
         $this->mySQLRepo = $mySQLRepo;
-        $this->mongoDbRepo = $mongoDbRepo;        
+        $this->mongoDbRepo = $mongoDbRepo;
     }
 
-    public function importEPGDefault() {
-        $this->writeln('Importing EPG files from defaul location...');
-        $this->convertFileAndInsert();
-    }
+    public function importEPGFiles($fileDir) {
+        if ($this->isDirEmpty($fileDir)) {
+            throw new \Exception("No files were found in the directory... \n");
+        }
 
-    private function convertFileAndInsert() {
-        foreach (new \DirectoryIterator('./EPGFiles') as $file) {
+        foreach (new \DirectoryIterator($fileDir) as $file) {
             if ($file->isFile()) {
-                $xmlData = simplexml_load_file("./EPGFiles/" . $file->getFilename()) or die("Failed to load");
+                $xmlData = EPGXmlOperations::getSimpleXmlFromEPGFile($file->getFilename());
                 $this->writeln('Inserting Channel data from ' . $file->getFilename());
                 $idChannel = $this->insertChannelData($xmlData);
                 $this->writeln('Data inserted!');
@@ -33,18 +32,18 @@ final class ImportEPGService extends BaseService {
     }
 
     private function insertChannelData($xmlData) {
-        $data = EPGDataRecover::getChannelData($xmlData);
+        $data = EPGXmlOperations::getChannelData($xmlData);
         return $this->mySQLRepo->insertData($data);
     }
 
     private function insertProgrammeData($idChannel, $xmlData) {
-        
+
         $date = new \DateTime();
         $date->modify('-7 day');
         $this->mongoDbRepo->removeWhenDataStartLessThan($date);
-        
-        foreach ($xmlData->programme as $value) {           
-            $data = EPGDataRecover::getProgrammeData($idChannel, $value);
+
+        foreach ($xmlData->programme as $value) {
+            $data = EPGXmlOperations::getProgrammeData($idChannel, $value);
             $this->mongoDbRepo->insertData($data);
         }
     }

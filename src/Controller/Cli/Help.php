@@ -17,11 +17,14 @@ final class Help extends BaseController
         global $container;
 
         $this->writeln('
-This is the help display of the Example App CLI.
+This is the help display of the Wetek Challenge Application.
 
 General commands:
-    Help - Show this help menu
-    Test - Run a simple test
+    help - Show this help menu
+    import - Import EPX xml files from the default folder into MySQL and MongoDB databases
+    import [folder] - Import EPX xml files from the chosen folder into MySQL and MongoDB databases. Unix style(Ex: ./some_folder)
+    
+    ps: Any specific configuration like database connections please refer to settings.php
 ');
     }
 }

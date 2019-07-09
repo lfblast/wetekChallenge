@@ -2,7 +2,12 @@
 
 namespace WetekChallenge\Service;
 
-class EPGDataRecover {
+class EPGXmlOperations {
+
+    public static function getSimpleXmlFromEPGFile($fileName) {
+        $data = simplexml_load_file("./EPGFiles/" . $fileName) or die("Failed to load file.");
+        return $data;
+    }
 
     public static function getChannelData($xmlData) {
         $data = [$xmlData->channel['id'], 
@@ -26,8 +31,6 @@ class EPGDataRecover {
             'category' => $xmlData->category->__toString(),
             'desc' => $xmlData->desc->__toString()
         ];
-
-//        $data = ['data' => new \DateTime('20190505002100 +200')];
         return $data;
     }
 }

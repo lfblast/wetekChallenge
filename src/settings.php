@@ -18,7 +18,9 @@ return [
             'host' => 'mongodb://localhost:27017',
             'user' => '',
             'pass' => ''
-        ]
+        ],
+        
+        'filesDir' => './EPGFiles'
     ],
     // CLI config
     'commands' => [
