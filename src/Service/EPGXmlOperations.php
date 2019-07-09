@@ -4,8 +4,8 @@ namespace WetekChallenge\Service;
 
 class EPGXmlOperations {
 
-    public static function getSimpleXmlFromEPGFile($fileName) {
-        $data = simplexml_load_file("./EPGFiles/" . $fileName) or die("Failed to load file.");
+    public static function getSimpleXmlFromEPGFile($fileDir, $fileName) {
+        $data = simplexml_load_file($fileDir. "/" . $fileName) or die("Failed to load file.");
         return $data;
     }
 

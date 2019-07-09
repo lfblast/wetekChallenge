@@ -19,7 +19,7 @@ final class ImportEPGService extends BaseService {
 
         foreach (new \DirectoryIterator($fileDir) as $file) {
             if ($file->isFile()) {
-                $xmlData = EPGXmlOperations::getSimpleXmlFromEPGFile($file->getFilename());
+                $xmlData = EPGXmlOperations::getSimpleXmlFromEPGFile($fileDir, $file->getFilename());
                 $this->writeln('Inserting Channel data from ' . $file->getFilename());
                 $idChannel = $this->insertChannelData($xmlData);
                 $this->writeln('Data inserted!');
@@ -46,5 +46,18 @@ final class ImportEPGService extends BaseService {
             $data = EPGXmlOperations::getProgrammeData($idChannel, $value);
             $this->mongoDbRepo->insertData($data);
         }
+    }
+
+    function isDirEmpty($dir) {
+        if (!is_readable($dir)) {
+            throw new \Exception("The folder does not exist: Invalid argument \n");
+        }
+        $handle = opendir($dir);
+        while (false !== ($entry = readdir($handle))) {
+            if ($entry != "." && $entry != "..") {
+                return FALSE;
+            }
+        }
+        return TRUE;
     }
 }
